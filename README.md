@@ -1,0 +1,2 @@
+# aouto-install-vps
+tetet
